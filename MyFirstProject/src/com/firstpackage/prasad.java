@@ -8,5 +8,13 @@ public class prasad {
 		
 		
 		//testing the application in new 
+		
+		
+	}
+	
+	
+	public void newMethod(){
+		
+		System.out.println("Testing application- By srikiran user");
 	}
 }
